@@ -36,11 +36,9 @@ https://marlon48.hocoos.site/
 Disease-Prediction-System/
 ├── README.md
 ├── report/
-│ └── Final_Report.pdf
+│ └── Disease Prediction System Using AI.pdf
 ├── website/
-│ └── website_link.txt
-└── images/
-└── system_screenshot.png
+│ └── https://marlon48.hocoos.site/
 
 ## Team Members
 - 1143514  
